@@ -1,6 +1,6 @@
-# Client Management Dashboard (MERN Stack)
+# Client Prospect Tracker (MERN Stack)
 
-A responsive and fully functional MERN stack application for managing clients — built with **React**, **Express**, **Node.js**, and **MongoDB**.
+A responsive and fully functional MERN stack application for tracking clients — built with **React**, **Express**, **Node.js**, and **MongoDB**.
 
 ## 🚀 Features
 
