@@ -1,0 +1,15 @@
+# Ignore node_modules
+**/node_modules/
+
+# Ignore .env files (credentials)
+**/.env
+
+# Ignore build and cache files
+dist/
+build/
+.cache/
+
+# Ignore OS and IDE files
+.DS_Store
+Thumbs.db
+*.log
